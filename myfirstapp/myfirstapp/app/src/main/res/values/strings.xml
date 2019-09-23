@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myfirstapp</string>
+    <string name="login">Already registered? <u><b>Login</b></u></string>
+    <string name="signup">Dont have acc yet? <u><b>Registere here!</b></u></string>
+</resources>
