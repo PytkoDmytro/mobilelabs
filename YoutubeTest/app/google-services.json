@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "499875941097",
+    "firebase_url": "https://myfirstapp-5034c.firebaseio.com",
+    "project_id": "myfirstapp-5034c",
+    "storage_bucket": "myfirstapp-5034c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499875941097:android:6341bed1248ba9e58afe78",
+        "android_client_info": {
+          "package_name": "com.dmytro.myfirstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499875941097-0f0r5mmr1mki8gcuuqatfphklcie07bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw1dorSNV07gu7Uj8FfprgKXh9K1C3qaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499875941097-0f0r5mmr1mki8gcuuqatfphklcie07bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
